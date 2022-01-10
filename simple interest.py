@@ -1,4 +1,4 @@
-#qn3 program to calculate simple interest
+#program to calculate simple interest
 def si(p ,n ,r):
     si=(p*n*r)/100
 
