@@ -1,4 +1,4 @@
-#qn4 program to check if a number is a prime number or not
+#program to check if a number is a prime number or not
 
 num=int(input('Enter your value\n'))
 
